@@ -88,12 +88,12 @@ using Microsoft.eShopWeb.Infrastructure.Identity;
             WriteLiteral("\n");
             EndContext();
             BeginContext(76, 292, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a5cd75aac092455fb4b9b23225e9e05d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0e1b462a5bbd426ea2bcaf3794ee6684", async() => {
                 BeginContext(169, 58, true);
                 WriteLiteral("\n        <div class=\"esh-basketstatus-image\">\n            ");
                 EndContext();
                 BeginContext(227, 31, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "e0a1db2d640144b2a2e6c1851e836149", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "3512433f1ff54ba5bd7f97c523495b41", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

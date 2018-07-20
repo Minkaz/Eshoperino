@@ -2,7 +2,6 @@ C:\Users\mindaugas.kazukauska\Desktop\eShopOnWeb-master\src\WebRazorPages\obj\De
 C:\Users\mindaugas.kazukauska\Desktop\eShopOnWeb-master\src\WebRazorPages\obj\Debug\netcoreapp2.1\WebRazorPages.csproj.CoreCompileInputs.cache
 C:\Users\mindaugas.kazukauska\Desktop\eShopOnWeb-master\src\WebRazorPages\obj\Debug\netcoreapp2.1\WebRazorPages.RazorAssemblyInfo.cache
 C:\Users\mindaugas.kazukauska\Desktop\eShopOnWeb-master\src\WebRazorPages\obj\Debug\netcoreapp2.1\WebRazorPages.RazorAssemblyInfo.cs
-C:\Users\mindaugas.kazukauska\Desktop\eShopOnWeb-master\src\WebRazorPages\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
 C:\Users\mindaugas.kazukauska\Desktop\eShopOnWeb-master\src\WebRazorPages\obj\Debug\netcoreapp2.1\WebRazorPages.AssemblyInfoInputs.cache
 C:\Users\mindaugas.kazukauska\Desktop\eShopOnWeb-master\src\WebRazorPages\obj\Debug\netcoreapp2.1\WebRazorPages.AssemblyInfo.cs
 C:\Users\mindaugas.kazukauska\Desktop\eShopOnWeb-master\src\WebRazorPages\bin\Debug\netcoreapp2.1\ApplicationCore.dll
@@ -55,3 +54,4 @@ C:\Users\mindaugas.kazukauska\Desktop\eShopOnWeb-master\src\WebRazorPages\obj\De
 C:\Users\mindaugas.kazukauska\Desktop\eShopOnWeb-master\src\WebRazorPages\obj\Debug\netcoreapp2.1\WebRazorPages.csproj.CopyComplete
 C:\Users\mindaugas.kazukauska\Desktop\eShopOnWeb-master\src\WebRazorPages\obj\Debug\netcoreapp2.1\Microsoft.eShopWeb.RazorPages.dll
 C:\Users\mindaugas.kazukauska\Desktop\eShopOnWeb-master\src\WebRazorPages\obj\Debug\netcoreapp2.1\Microsoft.eShopWeb.RazorPages.pdb
+C:\Users\mindaugas.kazukauska\Desktop\eShopOnWeb-master\src\WebRazorPages\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

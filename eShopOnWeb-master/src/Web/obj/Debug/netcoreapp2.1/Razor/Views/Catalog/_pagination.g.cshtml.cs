@@ -79,7 +79,7 @@ using Microsoft.eShopWeb.Infrastructure.Identity;
             WriteLiteral("\n<div class=\"esh-pager\">\n\t<div class=\"container-fluid\">\n\t\t<article class=\"esh-pager-wrapper row\">\n\t\t\t<nav>\n\t\t\t\t<div class=\"col-md-2 col-xs-12\">\n\t\t\t\t\t");
             EndContext();
             BeginContext(180, 259, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "966114c6f5c646b1988ec3fc9489f43a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6c6e028f97a64f4caf2af5a907555cf8", async() => {
                 BeginContext(414, 21, true);
                 WriteLiteral("\n\t\t\t\t\t\tPrevious\n\t\t\t\t\t");
                 EndContext();
@@ -167,7 +167,7 @@ AddHtmlAttributeValue(" ", 235, Model.Previous, 236, 15, false);
             WriteLiteral("\n\t\t\t\t\t</span>\n\t\t\t\t</div>\n\t\t        \n\t\t\t\t<div class=\"col-md-2 col-xs-12\">\n\t\t\t\t\t");
             EndContext();
             BeginContext(720, 244, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a021b6843fee4b488efe52974ac0f396", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ef312c952e894c29b137f48eed06be77", async() => {
                 BeginContext(943, 17, true);
                 WriteLiteral("\n\t\t\t\t\t\tNext\n\t\t\t\t\t");
                 EndContext();

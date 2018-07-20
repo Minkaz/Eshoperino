@@ -643,6 +643,12 @@
           "lib/net40-Client/NuGet.Core.dll": {}
         }
       },
+      "OctoPack/3.6.3": {
+        "type": "package",
+        "build": {
+          "build/OctoPack.targets": {}
+        }
+      },
       "Remotion.Linq/2.2.0": {
         "type": "package",
         "dependencies": {
@@ -1252,6 +1258,7 @@
         "dependencies": {
           "Ardalis.GuardClauses": "1.2.3",
           "NuGet.Core": "2.14.0",
+          "OctoPack": "3.6.3",
           "System.Security.Claims": "4.3.0"
         },
         "compile": {
@@ -2075,6 +2082,28 @@
         "lib/net40-Client/NuGet.Core.dll",
         "nuget.core.2.14.0.nupkg.sha512",
         "nuget.core.nuspec"
+      ]
+    },
+    "OctoPack/3.6.3": {
+      "sha512": "SAKPv9edH3tmVh5jHxWaGS8Z3HhPHz4m6ussmeE1Kgmn3nrkL+az+xuDxV8SjEkVxn+dXm4+Jqw3NJjGj0e4PA==",
+      "type": "package",
+      "path": "octopack/3.6.3",
+      "files": [
+        "build/NuGet.exe",
+        "build/NuGet.exe.config",
+        "build/NuGet.exe.readme.txt",
+        "build/OctoPack.Tasks.dll",
+        "build/OctoPack.Tasks.pdb",
+        "build/OctoPack.targets",
+        "content/net35/_._",
+        "content/net40/_._",
+        "content/netcore45/_._",
+        "content/portable-net4+sl50+netcore45+wpa81+wp8/_._",
+        "license.txt",
+        "octopack.3.6.3.nupkg.sha512",
+        "octopack.nuspec",
+        "tools/Install.ps1",
+        "tools/Uninstall.ps1"
       ]
     },
     "Remotion.Linq/2.2.0": {
@@ -4191,7 +4220,8 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.1.0",
       "Microsoft.EntityFrameworkCore.Tools >= 2.1.0",
       "NETStandard.Library >= 2.0.3",
-      "NuGet.Core >= 2.14.0"
+      "NuGet.Core >= 2.14.0",
+      "OctoPack >= 3.6.3"
     ]
   },
   "packageFolders": {
@@ -4265,6 +4295,10 @@
           "NuGet.Core": {
             "target": "Package",
             "version": "[2.14.0, )"
+          },
+          "OctoPack": {
+            "target": "Package",
+            "version": "[3.6.3, )"
           }
         },
         "imports": [

@@ -82,7 +82,7 @@ using Microsoft.eShopWeb.Infrastructure.Identity;
             WriteLiteral("<section class=\"esh-catalog-hero\">\n    <div class=\"container\">\n        <img class=\"esh-catalog-title\" src=\"../images/main_banner_text.png\" />\n    </div>\n</section>\n\n<div class=\"container\">\n    <h1>Thanks for your Order!</h1>\n\n    ");
             EndContext();
             BeginContext(348, 71, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6ad7b994fc3e4148bed4e0804284818d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "af888d445d6b4b3eb476bebbf7655c03", async() => {
                 BeginContext(395, 20, true);
                 WriteLiteral("Continue Shopping...");
                 EndContext();

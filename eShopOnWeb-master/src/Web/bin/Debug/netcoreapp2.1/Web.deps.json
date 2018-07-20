@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "4b264bf8eb678174712430ba5d8d5a87af52ca1b"
+    "signature": "a47f1d7038234d21a98e47942b574ec18274ff86"
   },
   "compilationOptions": {
     "defines": [
@@ -31,7 +31,8 @@
           "Microsoft.EntityFrameworkCore.Tools": "2.1.0",
           "Microsoft.NETCore.App": "2.1.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.1.0",
-          "NuGet.Core": "2.14.0"
+          "NuGet.Core": "2.14.0",
+          "OctoPack": "3.6.3"
         },
         "runtime": {
           "Web.dll": {}
@@ -435,6 +436,7 @@
           "lib/netstandard1.6/NuGet.Frameworks.dll": {}
         }
       },
+      "OctoPack/3.6.3": {},
       "System.Composition/1.0.31": {
         "dependencies": {
           "System.Composition.AttributedModel": "1.0.31",
@@ -577,6 +579,7 @@
         "dependencies": {
           "Ardalis.GuardClauses": "1.2.3",
           "NuGet.Core": "2.14.0",
+          "OctoPack": "3.6.3",
           "System.Security.Claims": "4.3.0"
         },
         "runtime": {
@@ -592,7 +595,8 @@
           "Microsoft.AspNetCore.Identity": "2.1.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "2.1.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.1.0",
-          "NuGet.Core": "2.14.0"
+          "NuGet.Core": "2.14.0",
+          "OctoPack": "3.6.3"
         },
         "runtime": {
           "Infrastructure.dll": {}
@@ -3698,6 +3702,13 @@
       "sha512": "sha512-hmWi7oVNV397Luu7CQwCs/Ctxld+sMLUw9uxRBqVODpvDx1y0M+63sBe4Fh5n0urHRRsIlT/++FNj/UVZLz/Tw==",
       "path": "nuget.frameworks/4.7.0-rtm.5148",
       "hashPath": "nuget.frameworks.4.7.0-rtm.5148.nupkg.sha512"
+    },
+    "OctoPack/3.6.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SAKPv9edH3tmVh5jHxWaGS8Z3HhPHz4m6ussmeE1Kgmn3nrkL+az+xuDxV8SjEkVxn+dXm4+Jqw3NJjGj0e4PA==",
+      "path": "octopack/3.6.3",
+      "hashPath": "octopack.3.6.3.nupkg.sha512"
     },
     "System.Composition/1.0.31": {
       "type": "package",

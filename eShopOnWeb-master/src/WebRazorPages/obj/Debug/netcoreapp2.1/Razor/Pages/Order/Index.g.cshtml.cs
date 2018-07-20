@@ -150,7 +150,7 @@ using Microsoft.eShopWeb.Infrastructure.Identity;
             WriteLiteral("</section>\n                    <section class=\"esh-orders-item col-xs-1\">\n                        ");
             EndContext();
             BeginContext(1348, 93, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5c94938060cf4c7dba22e5099cbc038c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d56fda13b3a347ecbf1a7f5b0d90deac", async() => {
                 BeginContext(1431, 6, true);
                 WriteLiteral("Detail");
                 EndContext();
@@ -195,7 +195,7 @@ using Microsoft.eShopWeb.Infrastructure.Identity;
             WriteLiteral("                            ");
             EndContext();
             BeginContext(1653, 93, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9eda1501ce8c48c98a2870619e5ac14b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "22d7202d5bbc402581c466303875df55", async() => {
                 BeginContext(1736, 6, true);
                 WriteLiteral("Cancel");
                 EndContext();

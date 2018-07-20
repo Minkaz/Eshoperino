@@ -1,0 +1,9 @@
+C:\Users\mindaugas.kazukauska\Desktop\eShopOnWeb-master (1)\eShopOnWeb-master\src\ApplicationCore\bin\Release\netstandard2.0\ApplicationCore.deps.json
+C:\Users\mindaugas.kazukauska\Desktop\eShopOnWeb-master (1)\eShopOnWeb-master\src\ApplicationCore\bin\Release\netstandard2.0\ApplicationCore.dll
+C:\Users\mindaugas.kazukauska\Desktop\eShopOnWeb-master (1)\eShopOnWeb-master\src\ApplicationCore\bin\Release\netstandard2.0\ApplicationCore.pdb
+C:\Users\mindaugas.kazukauska\Desktop\eShopOnWeb-master (1)\eShopOnWeb-master\src\ApplicationCore\obj\Release\netstandard2.0\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\mindaugas.kazukauska\Desktop\eShopOnWeb-master (1)\eShopOnWeb-master\src\ApplicationCore\obj\Release\netstandard2.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\mindaugas.kazukauska\Desktop\eShopOnWeb-master (1)\eShopOnWeb-master\src\ApplicationCore\obj\Release\netstandard2.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\mindaugas.kazukauska\Desktop\eShopOnWeb-master (1)\eShopOnWeb-master\src\ApplicationCore\obj\Release\netstandard2.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\mindaugas.kazukauska\Desktop\eShopOnWeb-master (1)\eShopOnWeb-master\src\ApplicationCore\obj\Release\netstandard2.0\ApplicationCore.dll
+C:\Users\mindaugas.kazukauska\Desktop\eShopOnWeb-master (1)\eShopOnWeb-master\src\ApplicationCore\obj\Release\netstandard2.0\ApplicationCore.pdb
